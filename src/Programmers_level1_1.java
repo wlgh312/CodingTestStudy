@@ -1,3 +1,6 @@
+/*
+ 크레인 인형뽑기 게임
+ */
 import java.util.*;
 
 public class Programmers_level1_1 {

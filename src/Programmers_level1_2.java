@@ -1,3 +1,6 @@
+/*
+ 문자열 내림차순
+ */
 import java.util.*;
 
 public class Programmers_level1_2 {
