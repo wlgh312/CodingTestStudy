@@ -18,4 +18,6 @@ ex)모의고사
 Collections.sort(리스트);  
 ex)K번째수
 ### Hash(해시)
+큰 데이터를 탐색할 때 사용
+<Key, Value> =>HashMap
 ex)완주하지 못한 선수
