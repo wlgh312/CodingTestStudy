@@ -18,6 +18,9 @@ ex)모의고사
 Collections.sort(리스트);  
 ex)K번째수
 ### Hash(해시)
-큰 데이터를 탐색할 때 사용
-<Key, Value> =>HashMap
+큰 데이터를 탐색할 때 사용  
+<Key, Value> =>HashMap  
 ex)완주하지 못한 선수
+### Greedy 알고리즘(탐욕 알고리즘)
+미리 정한 기준에 따라 미래를 생각하지않고 각 단계에서 가장 최선의 답을 선택하는 알고리즘  
+ex)체육복
