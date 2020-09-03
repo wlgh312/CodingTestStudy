@@ -17,6 +17,7 @@ public class Programmers_level1_9 {
         }
         return answer;
     }
+	
 	public static void main(String[] args) {
 		int[] arr = {1,1,3,3,0,1,1};
 		for(int i=0;i<solution(arr).length; i++)
