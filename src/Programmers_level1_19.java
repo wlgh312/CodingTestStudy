@@ -1,7 +1,7 @@
 /*
 시저 암호
  */
-public class Programmger_level1_19 {
+public class Programmers_level1_19 {
 	public static String solution(String s, int n) {
         String answer = "";
         for(int i=0; i<s.length(); i++) {//문자열의 길이만큼 반복
