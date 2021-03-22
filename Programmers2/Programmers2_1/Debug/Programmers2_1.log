@@ -1,0 +1,4 @@
+﻿  test.cpp
+c:\users\wlgh3\source\repos\programmers2\programmers2_1\test.cpp(19): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\wlgh3\source\repos\programmers2\programmers2_1\test.cpp(9): warning C4101: 'vec' :참조되지 않은 지역 변수입니다.
+  Programmers2_1.vcxproj -> C:\Users\wlgh3\Source\Repos\Programmers2\Debug\Programmers2.exe
