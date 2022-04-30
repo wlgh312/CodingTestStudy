@@ -9,6 +9,8 @@ diry=[0, 0, -1, 1]
 #배열 회전
 def rotate(l):
     k=2**l
+    x=0
+    y=0
     for x in range(0, n, k):
         for y in range(0, n, k):
             tmp = [graph[i][y:y+k] for i in range(x, x+k)]
